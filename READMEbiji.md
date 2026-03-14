@@ -14,3 +14,8 @@ git push -u origin master
 //注意两种写法。第一是main分支，第二是master（看前面括号有master）
 ![alt text](image-1.png)
 github上也是两个分支![alt text](image-2.png)
+
+之后传送都需要暂存，说明，推送三个步骤
+
+如果传送失败：
+![alt text](image-3.png)
