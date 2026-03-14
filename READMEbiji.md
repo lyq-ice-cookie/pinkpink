@@ -19,3 +19,5 @@ github上也是两个分支![alt text](image-2.png)
 
 如果传送失败：
 ![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
